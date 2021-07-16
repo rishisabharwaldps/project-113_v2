@@ -1,0 +1,21 @@
+h3{
+  font-size: 25px !important;
+  background-color: blue;
+  color: white;
+  padding: 15px;
+  border-radius: 75px;
+  box-shadow: 5px 5px 18px rgb(119, 0, 255);
+  font-family: Algerian;
+  }
+  canvas {
+  	border:1px solid black;
+}
+button{
+  font-size: 20px !important;
+  color: white;
+  padding: 15px;
+  border-radius: 75px;
+  box-shadow: 5px 5px 18px rgb(119, 0, 255);
+  font-family: Algerian;
+  margin-left: 30px;
+}
